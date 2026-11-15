@@ -1,4 +1,4 @@
-# Command+
+# CommandPlus
 
 A utility plugin for Minecraft server admins and moderators with **48 commands**: sign and block tracking, structure finding with instant teleport, over-limit enchanting, area mining, player effects, staff chat and more.
 
