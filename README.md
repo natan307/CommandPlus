@@ -2,7 +2,7 @@
 
 A utility plugin for Minecraft server admins and moderators with **48 commands**: sign and block tracking, structure finding with instant teleport, over-limit enchanting, area mining, player effects, staff chat and more.
 
-**[Download on Release/Modrinth](https://github.com/natan307/CommandPlus/releases/download/1.0.0/CommandPlus-1.0.0.jar)** · **[Wiki](https://github.com/natan307/CommandPlus/wiki)**
+**[Download](https://github.com/natan307/CommandPlus/releases/download/1.0.0/CommandPlus-1.0.0.jar)** · **[Wiki](https://github.com/natan307/CommandPlus/wiki)**
 
 ## Compatibility
 | | |
