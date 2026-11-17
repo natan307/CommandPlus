@@ -4,6 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-21%2B-orange)
 ![Platform](https://img.shields.io/badge/Paper%20%7C%20Spigot-supported-blue)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+
 A utility plugin for Minecraft server admins and moderators with **48 commands**: sign and block tracking, structure finding with instant teleport, over-limit enchanting, area mining, player effects, staff chat and more.
 
 **[Download](https://github.com/natan307/CommandPlus/releases/download/1.0.0/CommandPlus-1.0.0.jar)** · **[Wiki](https://github.com/natan307/CommandPlus/wiki)**
