@@ -1,5 +1,4 @@
 
-![Banner](https://raw.githubusercontent.com/natan307/CommandPlus/refs/heads/main/banner.png)
 <p align="center">
   <a href="https://patreon.com/Natan307">
     <img src="https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon&logoColor=white" alt="Patreon">
