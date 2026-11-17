@@ -1,10 +1,10 @@
 
 ![Banner](https://raw.githubusercontent.com/natan307/CommandPlus/refs/heads/main/banner.png)
-[
-
-![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon&logoColor=white)
-
-](https://patreon.com/Natan307)
+<p align="center">
+  <a href="https://patreon.com/Natan307">
+    <img src="https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon&logoColor=white" alt="Patreon">
+  </a>
+</p>
 
 # CommandPlus
 A utility plugin for Minecraft server admins and moderators with **48 commands**: sign and block tracking, structure finding with instant teleport, over-limit enchanting, area mining, player effects, staff chat and more.
