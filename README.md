@@ -5,10 +5,10 @@
   </a>
 </p>
 
-# CommandPlus
+# CommandsPlus
 A utility plugin for Minecraft server admins and moderators with **48 commands**: sign and block tracking, structure finding with instant teleport, over-limit enchanting, area mining, player effects, staff chat and more.
 
-**[Download](https://github.com/natan307/CommandPlus/releases/download/1.0.0/CommandPlus-1.0.0.jar)** · **[Wiki](https://github.com/natan307/CommandPlus/wiki)**
+**[Download](https://github.com/natan307/CommandsPlus/releases/download/1.0.0/CommandsPlus-1.0.0.jar)** · **[Wiki](https://github.com/natan307/CommandsPlus/wiki)**
 
 ## Compatibility
 | | |
@@ -37,21 +37,24 @@ And more: freeze, measure, poison, luck, remote hit, lore with color and hex sup
 Every command has its own permission and is **OP-only by default**. Commands that affect other players use a separate `.others` permission.
 
 ```
-/lp group helper permission set commandplus.signspy true
-/lp group helper permission set commandplus.poison.others true
+/lp group helper permission set commandsplus.signspy true
+/lp group helper permission set commandsplus.poison.others true
 ```
 
 ## Installation
-1. Download the jar from Release/Modrinth.
+1. Download the jar from Releases or Modrinth.
 2. Put it in your server's `plugins/` folder.
-3. Start the server and edit `plugins/CommandPlus/config.yml` if needed.
+3. Start the server and edit `plugins/CommandsPlus/config.yml` if needed.
 
-Details are on the [Wiki](https://github.com/natan307/CommandPlus/wiki/Installation).
+Details are on the [Wiki](https://github.com/natan307/CommandsPlus/wiki/Installation).
+
+## Metrics
+CommandsPlus uses [bStats](https://bstats.org/plugin/bukkit/CommandsPlus/35401) to collect anonymous usage statistics (server software and version, plugin version and storage type). No player data is collected. You can opt out for all plugins by setting `enabled: false` in `plugins/bStats/config.yml`.
 
 ## Support
 Found a bug? Open an issue and include:
 - Server software and version
-- Command+ version (`/commandplus about`)
+- Commands+ version (`/commandsplus about`)
 - What you typed and the full console error
 
 ## Note
